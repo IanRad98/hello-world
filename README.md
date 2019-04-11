@@ -1,5 +1,17 @@
 # hello-world
-First depository
-Hej Humans!
+First depository 
 
-I just started here. I came from Mars. 
+For at forstå hvad der sker med koden vi udvikler
+Opsæt:
+--Opsætning af git
+--Opsæt af SSH til GitLab / GitHub
+
+git:
+--commit
+--status
+--add
+--push
+--pull                  
+--checkout
+--branch
+--merge
